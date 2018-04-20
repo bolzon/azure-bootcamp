@@ -1,49 +1,27 @@
 
-# GLOBAL AZURE BOOTCAMP
+# Global Azure Bootcamp 2018
 
-Esta apresentação está dividida nas partes abaixo:
+## Sobre o evento
 
-- [Azure App Service](#azure-app-service)
-- [Azure Function](#azure-function)
-- [Demo](#demo)
+Evento da comunidade Microsoft Azure da região de Campinas/SP.  
+Dia 21 de abril de 2018 em Campinas/SP, [Venturus](http://venturus.org.br).  
+Mais informações no [**site oficial do evento**](https://global.azurebootcamp.net).
 
-## Abordagem
+## Sobre o repo
 
-De forma breve e objetiva, abordaremos aqui **PaaS** (Azure App Service) e **FaaS** (Azure Function).
+Repositório do código utilizado para demo da apresentação sobre **Azure App Service** e **Azure Function**.
 
-## Azure App Service
+## Slides
 
-O Azure App Service oferece diversas estruturas existentes em Windows e Linux para se ter produtividade na criação de APIs, aplicações Mobile e Web em diversas linguagens (.NET, .NET Core, NodeJS, Java, Ruby, Python e PHP) sem se preocupar com gerenciamento de infraestrutura ou balanceamento de carga.
+- [Azure App Service e Function com Linux e NodeJS]()
 
-## Azure Function
+## Referências
 
-Multi-linguagem / multi-plataforma
+- [Install Azure CLI 2.0 with apt](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-apt?view=azure-cli-latest)
+- [Azure code samples in NodeJS](https://azure.microsoft.com/en-us/resources/samples/?platform=nodejs&sort=0)
+- [Create a Node.js web app in Azure App Service on Linux](https://docs.microsoft.com/en-us/azure/app-service/containers/quickstart-nodejs?view=azure-node-latest)
+- [Create your first function in the Azure portal](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-azure-function)
 
-Facilmente adaptável com Azure Cosmos DB, Storage e outros serviços Azure.
+## Autor e licença
 
-O que posso fazer com Functions?
-
-Timer-based processing
-Azure service event processing
-SaaS event processing
-Serverless web application architecture
-Serverless mobile back ends
-Real-time stream processing
-Real-time bot messaging
-
-Quais triggers?
-
-Scheduled
-Storage queue messages
-Generic webhook
-GitHub webhook
-Adding message to Azure Storage queue
-Storing data on
-
-## Demo
-
-Demo comes here.
-
-### Azure CLI
-
-https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-apt?view=azure-cli-latest
+A apresentação e código fonte elaborados por [Alexandre Bolzon](https://about.me/bolzon) sob licença [MIT](https://opensource.org/licenses/MIT).
