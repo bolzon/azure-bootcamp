@@ -1,8 +1,6 @@
 
 # Global Azure Bootcamp 2018
 
-## Evento
-
 Evento da comunidade Microsoft Azure da região de Campinas/SP.  
 Dia 21 de abril de 2018 no [Venturus, Centro de Inovação e Tecnologia](http://venturus.org.br).  
 Mais informações no [site oficial do evento](https://global.azurebootcamp.net).
