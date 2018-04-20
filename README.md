@@ -3,13 +3,13 @@
 
 Esta apresentação está dividida nas partes abaixo:
 
-- Tipos de Serviços Cloud
-- Azure App Service
-- Serverless / Worriless
-- Azure Function
-- Demo
+- [Tipos de Serviços Cloud](#tipos-de-serviços-cloud)
+- [Azure App Service](#azure-app-service)
+- [Serverless (worriless)](#serverless-worriless)
+- [Azure Function](#azure-function)
+- [Demo](#demo)
 
-## Serviços Cloud
+## Tipos de Serviços Cloud
 
 IaaS, PaaS, SaaS, CaaS ou FaaS?
 
@@ -56,7 +56,7 @@ De forma breve e objetiva, abordaremos aqui **PaaS** (Azure App Service) e **Faa
 
 O Azure App Service oferece diversas estruturas existentes em Windows e Linux para se ter produtividade na criação de APIs, aplicações Mobile e Web em diversas linguagens (.NET, .NET Core, NodeJS, Java, Ruby, Python e PHP) sem se preocupar com gerenciamento de infraestrutura ou balanceamento de carga.
 
-## Serverless / Worriless
+## Serverless (worriless)
 
 Serverless é um modelo ideal para quem tem a necessidade, mas não necessariamente o tempo.
 
