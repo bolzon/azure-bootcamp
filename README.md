@@ -58,9 +58,9 @@ O Azure App Service oferece diversas estruturas existentes em Windows e Linux pa
 
 ## Serverless / Worriless
 
-Serverless é a solução ideal que se tem a necessidade, mas não o tempo.
+Serverless é um modelo ideal para quem tem a necessidade, mas não necessariamente o tempo.
 
-Foco total na solução.
+Com um ambiente totalmente gerenciado, o desenvolvedor tem foco total na lógica da solução sem se preocupar com infraestrutura, ambiente etc.
 
 - Arquitetura orientada a eventos
 - Infraestrutura gerenciada pelo provedor de cloud
