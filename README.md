@@ -4,7 +4,7 @@
 ## Sobre o evento
 
 Evento da comunidade Microsoft Azure da região de Campinas/SP.  
-Dia 21 de abril de 2018 em Campinas/SP, [Venturus](http://venturus.org.br).  
+Dia 21 de abril de 2018 no [Venturus, Centro Inovação e Tecnologia](http://venturus.org.br).  
 Mais informações no [**site oficial do evento**](https://global.azurebootcamp.net).
 
 ## Sobre o repo
