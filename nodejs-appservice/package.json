@@ -1,0 +1,14 @@
+{
+    "name": "nodejs-appservice",
+    "description": "Aplicação NodeJS exemplo para rodar no Azure App Service",
+    "version": "0.0.1",
+    "private": true,
+    "license": "MIT",
+    "author": "Bolzon <blzn@mail.ru>",
+    "engines": {
+        "node": ">=8.6.0"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}
