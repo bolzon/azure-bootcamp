@@ -12,7 +12,7 @@ Repositórios de código utilizados na demo da apresentação sobre Azure App Se
 - **Azure App Service + NodeJS**  
 [github.com/bolzon/azure-appservice-nodejs](https://github.com/bolzon/azure-appservice-nodejs)
 
-- **Azure Function + NodeJS**  
+- **Azure Function + JavaScript**  
 [github.com/bolzon/azure-function-nodejs](https://github.com/bolzon/azure-function-nodejs)
 
 ## Slides
