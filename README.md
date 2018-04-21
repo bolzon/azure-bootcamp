@@ -32,7 +32,7 @@ Repositórios de código utilizados na demo da apresentação sobre Azure App Se
 
 ### Licenças
 
-Código - [MIT](https://opensource.org/licenses/MIT)  
-Apresentação - [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
+Código: [MIT](https://opensource.org/licenses/MIT)  
+Apresentação: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
 
 ![CC BY-NC-ND 4.0](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
