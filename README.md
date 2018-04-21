@@ -28,7 +28,8 @@ Repositórios de código utilizados na demo da apresentação sobre Azure App Se
 
 ## Autor e licença
 
-[Alexandre Bolzon](https://about.me/bolzon)  
+Alexandre Bolzon  
+https://about.me/bolzon
 
 ### Licenças
 
