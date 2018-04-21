@@ -28,4 +28,10 @@ Repositórios de código utilizados na demo da apresentação sobre Azure App Se
 
 ## Autor e licença
 
-Apresentação e código fonte elaborados por [Alexandre Bolzon](https://about.me/bolzon) sob licença [MIT](https://opensource.org/licenses/MIT).
+Autor: [Alexandre Bolzon](https://about.me/bolzon)  
+
+### Licença
+
+Código: [MIT](https://opensource.org/licenses/MIT)  
+Aapresentação: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License  
+![Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.Png)
