@@ -7,14 +7,17 @@ Mais informações no [site oficial do evento](https://global.azurebootcamp.net)
 
 ## Repos
 
-Repositórios de código utilizados na demo da apresentação sobre **Azure App Service** e **Azure Function**:
+Repositórios de código utilizados na demo da apresentação sobre Azure App Service e Azure Function:
 
-- [Azure App Service + NodeJS](https://github.com/bolzon/azure-appservice-nodejs)
-- [Azure Funcion + NodeJS](https://github.com/bolzon/azure-function-nodejs)
+- **Azure App Service + NodeJS**  
+[github.com/bolzon/azure-appservice-nodejs](https://github.com/bolzon/azure-appservice-nodejs)
+
+- **Azure Function + NodeJS**  
+[github.com/bolzon/azure-function-nodejs](https://github.com/bolzon/azure-function-nodejs)
 
 ## Slides
 
-- [Azure App Service e Function com Linux e NodeJS]()
+- [Azure App Service e Function com Linux e NodeJS](/)
 
 ## Referências
 
