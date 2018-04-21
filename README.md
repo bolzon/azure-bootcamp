@@ -5,9 +5,12 @@ Evento da comunidade Microsoft Azure da região de Campinas/SP.
 Dia 21 de abril de 2018 no [Venturus, Centro de Inovação e Tecnologia](http://venturus.org.br).  
 Mais informações no [site oficial do evento](https://global.azurebootcamp.net).
 
-## Repo
+## Repos
 
-Repositório de código utilizado para demo da apresentação sobre **Azure App Service** e **Azure Function**.
+Repositórios de código utilizados na demo da apresentação sobre **Azure App Service** e **Azure Function**:
+
+- [Azure App Service + NodeJS](https://github.com/bolzon/azure-appservice-nodejs)
+- [Azure Funcion + NodeJS](https://github.com/bolzon/azure-function-nodejs)
 
 ## Slides
 
