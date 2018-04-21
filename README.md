@@ -17,7 +17,7 @@ Repositórios de código utilizados na demo da apresentação sobre Azure App Se
 
 ## Slides
 
-- [Azure App Service e Function com Linux e NodeJS](/)
+- [Azure App Service e Function com Linux e NodeJS](https://github.com/bolzon/azure-bootcamp/raw/master/Azure%20Bootcamp%20-%20App%20Service%20e%20Functions.pdf)
 
 ## Referências
 
